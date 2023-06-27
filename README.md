@@ -5,8 +5,12 @@
 This repository contains the replication package and dataset of the paper published at EASE 2023 (Research track) with the title [**On the Energy Consumption and Performance of WebAssembly Binaries across Programming Languages and Runtimes in IoT**](https://dl.acm.org/doi/10.1145/3593434.3593454).
 
 This study has been designed, developed, and reported by the following investigators:
-
-**Anonymous while under review.**
+- Linus Wagner
+- Maximilian Mayer
+- Andrea Marino
+- Alireza Soldani Nezhad
+- Hugo Zwaan
+- Ivano Malavolta
 
 For any information, interested researchers can contact us by sending an email to any of the investigators listed above.
 A full replication package, including the software setup for conducting our experiments, benchmarks, an Ansible and Docker setup package, the final dataset generated, and scripts to analyse and visualize the resulting data are described below. 
